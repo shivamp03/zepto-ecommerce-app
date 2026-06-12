@@ -1,0 +1,59 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.gradle/
+.android/
+.ios/
+ios/Pods/
+ios/Podfile.lock
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.history
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# PHP
+vendor/
+.php_cs
+.php_cs.cache
+*.log
+
+# MySQL
+*.sql
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Firebase
+.firebaserc
+google-services.json
+GoogleService-Info.plist
+
+# Build
+dist/
+build/
+
+# Misc
+.env.local
+.env.*.local
+secrets/
